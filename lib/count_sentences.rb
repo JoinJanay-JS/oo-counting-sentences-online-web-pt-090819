@@ -1,7 +1,6 @@
 require 'pry'
 
 class String
-  require.pry
   def sentence?
     self.end_with?(".")
   end
