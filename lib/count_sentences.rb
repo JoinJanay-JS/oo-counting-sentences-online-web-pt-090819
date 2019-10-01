@@ -1,7 +1,6 @@
 require 'pry'
 
 class String
-requre.pry 
   def sentence?
     self.end_with?(".")
   end
